@@ -1,0 +1,227 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.17)  18 JAN 2021 16:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**z:/Desktop/UNIVERSITA/IS/appunti/appunti.tex
+(z:/Desktop/UNIVERSITA/IS/appunti/appunti.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+ (c:/texlive/2020/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2020/08/01 v1.3d Input encoding file
+)) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen139
+\l@babelnohyphens=\language86
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count186
+ (c:/texlive/2020/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count187
+\it@doublequoteactive=\count188
+\it@ISOcompliance=\count189
+)) (c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count190
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count191
+\l__pdf_internal_box=\box47
+) (z:/Desktop/UNIVERSITA/IS/appunti/appunti.aux)
+\openout1 = `appunti.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \it@ocap on input line 13.
+LaTeX Info: Redefining \it@ccap on input line 13.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 13.
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen142
+\scratchbox=\box48
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen143
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks19
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+ (z:/Desktop/UNIVERSITA/IS/appunti/appunti.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `appunti.toc'.
+
+ [1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (z:/Desktop/UNIVERSITA/IS/appunti/capitoli/0_introduzione.tex [2]
+<costi.PNG, id=16, 528.47438pt x 370.38374pt>
+File: costi.PNG Graphic file (type png)
+<use costi.PNG>
+Package pdftex.def Info: costi.PNG  used on input line 78.
+(pdftex.def)             Requested size: 264.23654pt x 185.1914pt.
+ [3]) [4 <z:/Desktop/UNIVERSITA/IS/appunti/costi.PNG>] (z:/Desktop/UNIVERSITA/IS/appunti/capitoli/1_ciclo_di_vita_di_un_software.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[5]
+<cascata.PNG, id=31, 609.77812pt x 401.24907pt>
+File: cascata.PNG Graphic file (type png)
+<use cascata.PNG>
+Package pdftex.def Info: cascata.PNG  used on input line 77.
+(pdftex.def)             Requested size: 304.8883pt x 200.62404pt.
+ [6] [7 <z:/Desktop/UNIVERSITA/IS/appunti/cascata.PNG>]
+<feedback.jpg, id=40, 704.6325pt x 564.1075pt>
+File: feedback.jpg Graphic file (type jpg)
+<use feedback.jpg>
+Package pdftex.def Info: feedback.jpg  used on input line 114.
+(pdftex.def)             Requested size: 352.3154pt x 282.05305pt.
+ [8 <z:/Desktop/UNIVERSITA/IS/appunti/feedback.jpg>]
+<modello_a_v.PNG, id=44, 721.19438pt x 398.99063pt>
+File: modello_a_v.PNG Graphic file (type png)
+<use modello_a_v.PNG>
+Package pdftex.def Info: modello_a_v.PNG  used on input line 128.
+(pdftex.def)             Requested size: 360.59631pt x 199.49483pt.
+
+Overfull \hbox (0.59631pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+[9 <z:/Desktop/UNIVERSITA/IS/appunti/modello_a_v.PNG>]
+<modello_usa_e_gettta.PNG, id=49, 534.49687pt x 330.48468pt>
+File: modello_usa_e_gettta.PNG Graphic file (type png)
+<use modello_usa_e_gettta.PNG>
+Package pdftex.def Info: modello_usa_e_gettta.PNG  used on input line 169.
+(pdftex.def)             Requested size: 374.14525pt x 231.33769pt.
+
+Overfull \hbox (14.14525pt too wide) in paragraph at lines 169--170
+ [][] 
+ []
+
+[10 <z:/Desktop/UNIVERSITA/IS/appunti/modello_usa_e_gettta.PNG>]
+<modello_evolutivo.PNG, id=54, 520.19344pt x 312.41719pt>
+File: modello_evolutivo.PNG Graphic file (type png)
+<use modello_evolutivo.PNG>
+Package pdftex.def Info: modello_evolutivo.PNG  used on input line 182.
+(pdftex.def)             Requested size: 364.13292pt x 218.69052pt.
+
+Overfull \hbox (4.13292pt too wide) in paragraph at lines 182--183
+ [][] 
+ []
+
+<modello_incrementale.PNG, id=55, 547.2947pt x 294.34969pt>
+File: modello_incrementale.PNG Graphic file (type png)
+<use modello_incrementale.PNG>
+Package pdftex.def Info: modello_incrementale.PNG  used on input line 207.
+(pdftex.def)             Requested size: 383.10367pt x 206.04337pt.
+
+Overfull \hbox (23.10367pt too wide) in paragraph at lines 207--208
+ [][] 
+ []
+
+[11 <z:/Desktop/UNIVERSITA/IS/appunti/modello_evolutivo.PNG>] [12 <z:/Desktop/UNIVERSITA/IS/appunti/modello_incrementale.PNG>]
+<modello_a_spirale.PNG, id=64, 416.30531pt x 274.02374pt>
+File: modello_a_spirale.PNG Graphic file (type png)
+<use modello_a_spirale.PNG>
+Package pdftex.def Info: modello_a_spirale.PNG  used on input line 255.
+(pdftex.def)             Requested size: 291.41173pt x 191.8153pt.
+) [13 <z:/Desktop/UNIVERSITA/IS/appunti/modello_a_spirale.PNG>] (z:/Desktop/UNIVERSITA/IS/appunti/capitoli/2_analisi_specifica_requisiti.tex [14] [15]) [16] (z:/Desktop/UNIVERSITA/IS/appunti/appunti.aux) ) 
+Here is how much of TeX's memory you used:
+ 2462 strings out of 479304
+ 35940 string characters out of 5871219
+ 338438 words of memory out of 5000000
+ 19632 multiletter control sequences out of 15000+600000
+ 410866 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,8n,74p,384b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on z:/Desktop/UNIVERSITA/IS/appunti/appunti.pdf (16 pages, 536780 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

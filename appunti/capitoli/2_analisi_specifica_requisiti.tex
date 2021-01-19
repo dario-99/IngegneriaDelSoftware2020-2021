@@ -1,0 +1,90 @@
+\section{Analisi e specifica dei requisiti}
+Introduciamo adesso l'analisi e la specifica dei requisiti,
+\`e generalmente la prima fase del processo di sviluppo software,
+ed \`e anche la fase pi\`u importante.
+In questa fase dobbiamo definire in modo formale, i requisiti della nostra applicazione.
+Errori in questa fase costano molto caro, infatti si propagano in tutte le altre fasi,
+con perdita di tempo e denaro.
+\\
+Le domande principali da farci sono:
+\begin{itemize}
+    \item Cosa sono i requisiti?
+    \item Che cosa produce questa fase?
+\end{itemize}
+in questo capitolo troveremo le risposte a queste domande.
+\subsection{Ingegneria dei requisiti}
+l'ingengeria dei requisiti (requirements engineering), si occupa di \textbf{raccogliere
+, documentare, classificare, analizzare e gestire i requisiti}, cio\`e le funzionalit\`a, le 
+caratteristiche e i vincoli richiesti al nostro sistema.
+
+L'Ingegneria dei requisiti \`e di fondamentale importanza, come abbiamo detto errori
+nella fase della specifica di questi requisiti, si propagano.
+E senza un approccio \textbf{chiaro e sistemico}, \`e facile comprendere male 
+le richieste con la conseguenza di:
+\begin{itemize}
+    \item Clienti non soddisfatti
+    \item Ritardi nella produzione
+    \item Aumento dei costi di manutenzione
+    \item Software che non rispetta le richieste del cliente
+\end{itemize}
+\subsubsection{I requisiti}
+I requisiti sono:
+\begin{quote}
+    una frase in linguaggio naturale che descrive qualcosa che il sistema dovr\`a
+    fare \textbf{(requisito funzionale)}, o una propriet\`a o vincolo che si desidera per il sistema
+    \textbf{(requisito non funzionale)}, e che uno o pi\`u stakeholders (portatori di interesse) 
+    richiedono al sistema stesso
+\end{quote}
+Sintetizzando un requisito, esprime a parole, cosa il sistema dovr\`a fare, le caratteristiche e i vincoli.
+\subsubsection{Tipi di requisiti}
+I requisiti si dividono in base alla \textbf{astrazione} e al \textbf{tipo}.
+\begin{center}
+    \textbf{Astrazione}
+    \begin{itemize}
+        \item I requisiti \textbf{utente}, sono requisiti pi\`u astratti che descrivono in modo approssimativo
+                le funzionalit\`a del sistema.
+        \item i requisiti \textbf{di sistema}, sono meno astratti e vanno a descrivere in modo 
+                approfondito, le singole funzionalit\`a.
+    \end{itemize}    
+    \textbf{Tipo}
+    \begin{itemize}
+        \item I requisiti \textbf{funzionali}, riguardano i vincoli e le funzionalit\`a richieste
+                al sistema.
+        \item i requisiti \textbf{non funzionali}, riguardano gli attributi di qualit\`a che
+                il sistema deve soddisfare, ad esempio il cliente pu\`o chiedere un software facile da usare
+                e sar\`a poi compito del analista di quantificare questo requisito.
+                Ma i requisiti non funzionali riguardano anche i vincoli di sviluppo, tecnologici.
+                (ad esempio un vincolo sul linguaggio di programmazione da usare)
+        \item i requisiti \textbf{di dominio}, sono vincoli e richieste che sono proprie del dominio
+                applicativo in cui agir\`a la nostra applicazione.
+                Ad esempio delle normative vigenti in quell ambito (vedi avionico, ferroviario, etc\dots).
+    \end{itemize}    
+\end{center}
+\subsection{Analisi, specifica e validazione dei requisiti}
+Nella fase di \textbf{analisi dei requisti }
+si stabilscono le funzionalit\`a, i servizi e i vincoli richiesti al sistema.
+Il documento prodotto da questa fase \`e il DSR (Documento di specifica dei requisiti) ed 
+eventualmente un PTS (piano di testing).
+
+In questa fase si specifica generalmente in linguaggio naturale,
+ \`e la fase iniziale, in cui i requisiti sono descritti in modo pi\`u semplice.
+ Spesso il documento di analisi \`e svolto da analisti a stretto contatto con gli stakeholders.
+\\
+Nella fase di \textbf{specifica dei requisiti}, c'\`e un processo di schematizzazione
+dei requisiti, spesso in un documento strutturato (template)
+\\
+Nella fase di \textbf{validazione} invece, si rivedono le richieste spesso con i Clienti
+in modo di trovare errori e incongruenze.
+
+\subsubsection{Caratteristiche di un SRS(specifica dei requisiti di sistema)}
+le caratterisctiche di un SRS sono:
+\begin{enumerate}
+    \item corretto: Non deve contentere errori
+    \item completo: Deve contenere tutti i requisiti
+    \item non ambiguo: I requisiti devono essere esplicitati in modo chiaro senza ambiguit\`a
+    \item verificabile 
+    \item consistente: I requisiti non devono avere contraddizioni
+    \item modificabile: una struttura e uno stile facilemnte modificabile
+    \item tracciabile: sia a posteriori che antecedenti, quindi deve essere facile tracciare il codice
+            a partire dal requisito e viceversa(spesso si usa una numerazione come nello standard IEEE 830-1998)
+\end{enumerate}
