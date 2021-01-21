@@ -169,9 +169,9 @@ INPUT z:/Desktop/UNIVERSITA/IS/appunti/appunti.toc
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-OUTPUT z:/Desktop/UNIVERSITA/IS/appunti/appunti.toc
 OUTPUT z:/Desktop/UNIVERSITA/IS/appunti/appunti.pdf
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+OUTPUT z:/Desktop/UNIVERSITA/IS/appunti/appunti.toc
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/0_introduzione.tex
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/0_introduzione.tex
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/0_introduzione.tex
@@ -231,6 +231,15 @@ INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/2_analisi_specifica_requisiti.te
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/2_analisi_specifica_requisiti.tex
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/2_analisi_specifica_requisiti.tex
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/2_analisi_specifica_requisiti.tex
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/3_modellazione_uml.tex
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/3_modellazione_uml.tex
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/3_modellazione_uml.tex
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/capitoli/3_modellazione_uml.tex
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/Modelli_uml.PNG
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/Modelli_uml.PNG
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/Modelli_uml.PNG
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/Modelli_uml.PNG
+INPUT z:/Desktop/UNIVERSITA/IS/appunti/Modelli_uml.PNG
 INPUT z:/Desktop/UNIVERSITA/IS/appunti/appunti.aux
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb

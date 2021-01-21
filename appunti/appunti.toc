@@ -1,25 +1,38 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {section}{\numberline {1}Introduzione}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Cos'\`e un software}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Il manifesto della Crisi: la nascita del Ing. del Software}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Il problema dei costi}{3}{}%
-\contentsline {subsection}{\numberline {1.4}Problemi di Qualit\`a}{4}{}%
-\contentsline {section}{\numberline {2}Ciclo di vita di un Software}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Attivit\`a fondamentali nel ciclo di vita}{5}{}%
-\contentsline {subsection}{\numberline {2.2}Modelli di Processo}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Modello a cascata: Waterfall}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}Modello a Retroazione a Cascata}{8}{}%
-\contentsline {subsubsection}{\numberline {2.2.3}Modello a V}{9}{}%
-\contentsline {subsection}{\numberline {2.3}Modelli Evolutivi}{9}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Sviluppo con prototipo usa e getta}{10}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}modello con prototipo evolutivo}{11}{}%
-\contentsline {subsection}{\numberline {2.4}Modello incrementale}{11}{}%
-\contentsline {subsection}{\numberline {2.5}Modello trasformazionale}{12}{}%
-\contentsline {subsection}{\numberline {2.6}Modello a spirale}{13}{}%
-\contentsline {section}{\numberline {3}Analisi e specifica dei requisiti}{14}{}%
-\contentsline {subsection}{\numberline {3.1}Ingegneria dei requisiti}{14}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}I requisiti}{14}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Tipi di requisiti}{15}{}%
-\contentsline {subsection}{\numberline {3.2}Analisi, specifica e validazione dei requisiti}{15}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Caratteristiche di un SRS(specifica dei requisiti di sistema)}{15}{}%
+\contentsline {section}{\numberline {1}Introduzione}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Cos'\`e un software}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Il manifesto della Crisi: la nascita del Ing. del Software}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Il problema dei costi}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Problemi di Qualit\`a}{5}{}%
+\contentsline {section}{\numberline {2}Ciclo di vita di un Software}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Attivit\`a fondamentali nel ciclo di vita}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Modelli di Processo}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Modello a cascata: Waterfall}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Modello a Retroazione a Cascata}{9}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Modello a V}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Modelli Evolutivi}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Sviluppo con prototipo usa e getta}{11}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}modello con prototipo evolutivo}{12}{}%
+\contentsline {subsection}{\numberline {2.4}Modello incrementale}{12}{}%
+\contentsline {subsection}{\numberline {2.5}Modello trasformazionale}{13}{}%
+\contentsline {subsection}{\numberline {2.6}Modello a spirale}{14}{}%
+\contentsline {section}{\numberline {3}Analisi e specifica dei requisiti}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Ingegneria dei requisiti}{15}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}I requisiti}{15}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Tipi di requisiti}{16}{}%
+\contentsline {subsection}{\numberline {3.2}Analisi, specifica e validazione dei requisiti}{16}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Caratteristiche di un SRS(specifica dei requisiti di sistema)}{16}{}%
+\contentsline {section}{\numberline {4}Modellazione}{18}{}%
+\contentsline {subsection}{\numberline {4.1}UML}{18}{}%
+\contentsline {subsection}{\numberline {4.2}Modelli Strutturali}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Class Diagram}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Object Diagram}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Package Diagram}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Component diagram}{20}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}Deployment Diagram}{20}{}%
+\contentsline {subsection}{\numberline {4.3}Diagrammi comportamentali}{20}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Use Case Diagram}{20}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Sequence diagram}{21}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Communication diagram}{21}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}State Chart Diagram}{21}{}%
